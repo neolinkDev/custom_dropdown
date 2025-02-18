@@ -1,6 +1,7 @@
 # Custom Dropdown Menu 🖱️
 
 A customizable dropdown menu built with vanilla HTML, CSS, and JavaScript.
+https://roadmap.sh/projects/custom-dropdown
 
 ![Dropdown Preview](https://github.com/user-attachments/assets/fbe29a7e-acf9-427b-9aaa-f4fd05536182)
 
@@ -25,6 +26,3 @@ A customizable dropdown menu built with vanilla HTML, CSS, and JavaScript.
 2. Open index.html in your browser. 
 
 Optionally you can install the VSC Live Server extension, launch the server and open it in your browser.
-
-## projectURL
-https://dropdown-jr.netlify.app/
