@@ -25,3 +25,5 @@ A customizable dropdown menu built with vanilla HTML, CSS, and JavaScript.
 2. Open index.html in your browser. 
 
 Optionally you can install the VSC Live Server extension, launch the server and open it in your browser.
+
+[projectURL](https://dropdown-jr.netlify.app/)
